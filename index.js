@@ -1,5 +1,5 @@
 const express = require("express");
-const body_parser = require("body-parser");
+
 const lodash = require("lodash");
 const axios = require("axios");
 require("dotenv").config();
